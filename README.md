@@ -15,7 +15,7 @@ My code works, but I don't always know why.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<img src="https://www.pinterest.com/pin/768286017737572842/" width="512px"/>
+<img src="https://i.pinimg.com/736x/34/d9/b5/34d9b57e93fb36e47ed7f9c0f86d14ca.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Thanhdox10&icon=0&color=0)](https://visitcount.itsvg.in)
